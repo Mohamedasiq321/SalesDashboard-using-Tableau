@@ -1,10 +1,10 @@
 Sales Dashboard using Tableau
 
-Overview
+1.Overview
 
 This project provides an interactive Tableau dashboard designed to visualize and analyze sales performance metrics. The dashboard enables businesses to track key performance indicators (KPIs), identify sales trends, and make data-driven decisions.
 
-Features
+2.Features
 
 Interactive Visualizations – Filter and drill down into sales data by region, product category, and time period.
 
@@ -14,7 +14,7 @@ Trend Analysis – Identify seasonal patterns and growth opportunities.
 
 Customer Insights – Analyze top-performing products and high-value customers.
 
-Dataset
+3.Dataset
 
 The dashboard is built using a structured sales dataset containing:
 
@@ -24,7 +24,7 @@ Product information (category, sub-category, product name)
 
 Sales metrics (sales, profit, quantity, discount)
 
-Tools & Technologies
+4.Tools & Technologies
 
 Tableau – For creating the interactive dashboard.
 
@@ -32,7 +32,7 @@ Excel/CSV – Data preprocessing and structuring before import into Tableau.
 
 Data Cleaning – Basic preprocessing to ensure accuracy and consistency.
 
-How to Use
+5.How to Use
 
 Download the Tableau .twb or .twbx file from the repository.
 
